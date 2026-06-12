@@ -18,6 +18,4 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NxceCopper&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NxceCopper&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=NxceCopper&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NxceCopper&theme=tokyonight)
