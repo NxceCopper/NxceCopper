@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,react,tailwind,linux,git,github,vscode,neovim,antigravity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,ts,js,react,tailwind,linux,git,github,vscode,neovim,cursor)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
