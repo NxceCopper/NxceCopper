@@ -1,58 +1,23 @@
 # 👋 Hey, I'm Nice
 
-🎓 High School Student
+🔐 Cybersecurity Enthusiast  
+💻 Full-Stack & DevSecOps Learner  
+🎨 Drawing Hobbyist  
+🧠 Mathematics & Science Student
 
-🔐 Interested in Cybersecurity, DevSecOps, and Software Engineering
+## 🚀 Current Projects
 
-🎨 Drawing enthusiast
+- NiceCSS
+- Nick
+- Website Development
+- Home Server Monitoring
 
-🧠 Mathematics & Science lover
+## 🛠 Tech Stack
 
----
+[![My Skills](https://skillicons.dev/icons?i=python,ts,react,tailwind,linux,git,github,vscode)](https://skillicons.dev)
 
-## 🚀 Current Focus
+## 📊 GitHub Stats
 
-* React + TypeScript
-* Tailwind CSS
-* Python Automation
-* Linux & Home Servers
-* Website Development
-* Building my own ecosystem projects
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
----
-
-## 🛠 Projects
-
-### N Ecosystem
-
-* 🔎 NiceLightSearch
-* 🤖 Nick (Future AI Companion)
-* 🎨 NiceCSS
-* 🖥 Home Server Monitoring Tools
-
----
-
-## 📚 Currently Learning
-
-```txt
-React
-TypeScript
-Python
-Linux
-Git
-UI/UX Design
-```
-
----
-
-## 🎯 Future Goals
-
-* Build useful software
-* Start a small web development business
-* Learn DevSecOps
-* Create production-ready projects
-* Contribute to open source
-
----
-
-> "Build first. Optimize later."
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
